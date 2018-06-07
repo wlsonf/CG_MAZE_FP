@@ -1,28 +1,13 @@
-https://www.davrous.com/2014/02/19/coding4fun-tutorial-creating-a-3d-webgl-procedural-qrcode-maze-with-babylon-js/
+Credits:
 
-http://www.3dworlds.ca/maze1/index.html
+Inspiration : http://www.3dworlds.ca/maze1/index.html
 
-https://experiments.withgoogle.com/webgl-maze
-
-Credits
----
-https://github.com/BabylonJS/Babylon.js
-
-Maze Generator
+Maze Generator : 
 http://www.html5gamedevs.com/topic/30569-random-maze-generator-pg/
 
+SkyBox : https://forums.frontier.co.uk/showthread.php/304196-Starfield
 
-Asphalt
-http://bgfons.com/download/3601
+Menu Bg: https://www.sciencesetavenir.fr/espace/hubble-10-000-galaxies-sur-un-cliche-de-la-taille-d-un-grain-de-sable_34122
 
-Sky
-https://forums.frontier.co.uk/showthread.php/304196-Starfield
-3- py
-5 -nz
-6- nx
-7 -pz
-8-px
-11 - ny
-https://doc.babylonjs.com/how_to/skybox
-
- 	
+Walls & Tiles :
+http://turbosquid.com/
